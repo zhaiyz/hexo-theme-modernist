@@ -9,7 +9,7 @@ if (page.archive){
     title = __('archive_a');
 
     if (pagination == 1 && theme.archive_yearly) {
-      var page_grouped = {}, years = [];
+      page_grouped = {}, years = [];
       page.posts.each(function (item) {
         var year = item.date.format('YYYY');
         if (!page_grouped[year]) {

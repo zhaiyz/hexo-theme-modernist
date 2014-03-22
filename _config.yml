@@ -1,23 +1,24 @@
 menu:
-  Home: /
-  Archives: /archives
+  首页: /
+  归档: /archives
+  关于: /about
 
-excerpt_link: Read More
-archive_yearly: false
+excerpt_link: 阅读全文
+archive_yearly: true
 
 widgets:
   - category
-  - tag
+#  - tag
   - tagcloud
   - recent_posts
-  - blogroll
+#  - blogroll
 
 blogrolls:
   - Heroic Yang's Blog: http://heroicyang.com/
 
 fancybox: true
 
-duoshuo_shortname: 
+duoshuo_shortname: zhaiyz
 
 google_analytics:
 rss:
