@@ -1,3 +1,11 @@
+### Install && Demo
+```
+git clone git@github.com:zhaiyz/hexo-theme-modernist.git themes/modernist
+```
+[Demo](http://zhaiyz.com)
+
+以下为原作者内容
+---
 # Modernist
 
 > **Attention: Modernist has been updated to Hexo version 2.0.x. If you're still using version 1.x, please use the [1.x](https://github.com/heroicyang/hexo-theme-modernist/tree/1.x) branch.**
