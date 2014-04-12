@@ -22,6 +22,7 @@ if (page.archive){
     }
   }
 }
+title = title + '&nbsp;' + __('total', page.posts.length);
 %>
 <h2 class="archive-title<% if (page.tag){ %> tag<% } else if (page.category){ %> category<% } %>"><%= title %></h2>
 
